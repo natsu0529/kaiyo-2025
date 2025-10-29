@@ -14,8 +14,8 @@
         "総合科目_外国語系_選択必修": 2,
         "総合科目_外国語系_選択": 2,
         "総合科目_自由選択": 4,
-        "基礎教育科目_必修": 14,
-        "基礎教育科目_選択": 7,
+        "基礎教育科目_学部共通科目_必修": 14,
+        "基礎教育科目_学部共通科目_選択": 7,
         "専門科目_必修科目": 48,
         "専門科目_選択科目_合計": 26,
         "専門科目_選択_基盤数理系": 4,
@@ -23,10 +23,7 @@
         "専門科目_選択_海事工学系": 22
       },
       "progressionRules": {
-        "Grade2": {
-          "totalRequiredCredits": 20,
-          "requiredCourses": []
-        },
+        "Grade2": { "totalRequiredCredits": 20, "requiredCourses": [] },
         "Grade3": {
           "totalRequiredCredits": 64,
           "requiredCourses": [
@@ -36,12 +33,10 @@
             "微分積分Ⅰ",
             "線形代数Ⅰ",
             "物理学"
-          ]
+          ],
+          "departmentSpecificMandatory": ["情報処理基礎論", "航海システム概論"]
         },
-        "Grade4": {
-          "totalRequiredCredits": 109,
-          "requiredCourses": []
-        }
+        "Grade4": { "totalRequiredCredits": 109, "requiredCourses": [] }
       }
     },
     {
@@ -58,8 +53,8 @@
         "総合科目_外国語系_選択必修": 3,
         "総合科目_外国語系_選択": 2,
         "総合科目_自由選択": 4,
-        "基礎教育科目_必修": 14,
-        "基礎教育科目_選択": 7,
+        "基礎教育科目_学部共通科目_必修": 14,
+        "基礎教育科目_学部共通科目_選択": 7,
         "専門科目_必修科目": 48,
         "専門科目_選択科目_合計": 26,
         "専門科目_選択_基盤数理系": 4,
@@ -67,10 +62,7 @@
         "専門科目_選択_海事工学系": 22
       },
       "progressionRules": {
-        "Grade2": {
-          "totalRequiredCredits": 20,
-          "requiredCourses": []
-        },
+        "Grade2": { "totalRequiredCredits": 20, "requiredCourses": [] },
         "Grade3": {
           "totalRequiredCredits": 65,
           "requiredCourses": [
@@ -80,7 +72,8 @@
             "微分積分Ⅰ",
             "線形代数Ⅰ",
             "物理学"
-          ]
+          ],
+          "departmentSpecificMandatory": ["情報処理基礎論", "航海システム概論"]
         },
         "Grade4": {
           "totalRequiredCredits": 110,
@@ -101,9 +94,9 @@
         "総合科目_外国語系_必修": 4,
         "総合科目_外国語系_選択": 2,
         "総合科目_自由選択": 4,
-        "基礎教育科目_必修": 11,
-        "基礎教育科目_選択必修": 2,
-        "基礎教育科目_選択": 11,
+        "基礎教育科目_学部共通科目_必修": 11,
+        "基礎教育科目_学部共通科目_選択必修": 2,
+        "基礎教育科目_学部共通科目_選択": 11,
         "専門科目_必修科目": 49,
         "専門科目_選択科目_合計": 28,
         "専門科目_選択_基礎専門科目系": 6,
@@ -112,10 +105,7 @@
         "専門科目_選択_海事工学系": 18
       },
       "progressionRules": {
-        "Grade2": {
-          "totalRequiredCredits": 20,
-          "requiredCourses": []
-        },
+        "Grade2": { "totalRequiredCredits": 20, "requiredCourses": [] },
         "Grade3": {
           "totalRequiredCredits": 62,
           "requiredCourses": [
@@ -125,7 +115,8 @@
             "微分積分Ⅰ",
             "線形代数Ⅰ",
             "物理学"
-          ]
+          ],
+          "departmentSpecificMandatory": ["情報処理基礎論", "航海システム概論"]
         },
         "Grade4": {
           "totalRequiredCredits": 104,

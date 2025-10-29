@@ -1,0 +1,356 @@
+{
+  "courses": [
+    {
+      "courseName": "ロジスティクス概論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "E",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "物流施設計画学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "コンテナ輸送工学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "流通情報工学ゼミナールⅠ",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "E",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "流通情報工学ゼミナールⅡ",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "E",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "流通情報工学実験",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "実験演習実習"
+    },
+    {
+      "courseName": "流通情報工学演習",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "実験演習実習"
+    },
+    {
+      "courseName": "卒業研究(流)",
+      "credits": 5,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "物流管理工学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "物流リスク工学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "流通最適化工学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "流通基盤計画学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "港湾環境工学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "データベース工学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "流通オペレーションズ・リサーチ",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "作業管理工学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "交通計画学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "流通データ分析",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "通関実務論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "データサイエンス",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "基礎プログラミング演習",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "データサイエンス演習",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "応用プログラミング",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "流通情報システム",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "機械学習",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "データ構造とアルゴリズム",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "最適化数学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "確率論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "数値解析",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "物流経済論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "国際経済論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "交通経済論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "国際交通論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "都市交通論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "流通経済論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "流通チャネル論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "産業政策論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "産業経済論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "保険契約法",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "損害賠償法",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "マーケティング論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "通信ネットワーク",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "衛星測位工学",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    },
+    {
+      "courseName": "安全工学(流)",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択科目"
+    }
+  ]
+}

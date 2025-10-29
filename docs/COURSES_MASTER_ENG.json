@@ -1,0 +1,244 @@
+{
+  "courses": [
+    {
+      "courseName": "機関システム工学入門",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "E",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "材料力学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "機械力学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "工業熱力学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "伝熱工学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "流体工学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "制御工学Ⅰ",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "制御工学Ⅱ",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "基礎電子工学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "船舶工学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "船舶工学Ⅱ",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "電子機械工学実習",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "実験演習実習"
+    },
+    {
+      "courseName": "電子機械工学実験",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "実験演習実習"
+    },
+    {
+      "courseName": "卒業研究(機)",
+      "credits": 5,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "卒業研究(制)",
+      "credits": 5,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "専門基礎"
+    },
+    {
+      "courseName": "ターボ動力工学Ⅰ",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "機関系分野"
+    },
+    {
+      "courseName": "ターボ動力工学Ⅱ",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "機関系分野"
+    },
+    {
+      "courseName": "ガスタービン工学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "機関系分野"
+    },
+    {
+      "courseName": "内燃機関工学Ⅰ",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "機関系分野"
+    },
+    {
+      "courseName": "内燃機関工学Ⅱ",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "機関系分野"
+    },
+    {
+      "courseName": "トライボロジー",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "機械系分野"
+    },
+    {
+      "courseName": "金属材料学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "機械系分野"
+    },
+    {
+      "courseName": "環境材料学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "機械系分野"
+    },
+    {
+      "courseName": "機械設計製図",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "機械系分野"
+    },
+    {
+      "courseName": "機械加工学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "機械系分野"
+    },
+    {
+      "courseName": "水中機器学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "電子制御系分野"
+    },
+    {
+      "courseName": "ソフトウェア工学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "電子制御系分野"
+    },
+    {
+      "courseName": "応用制御工学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "電子制御系分野"
+    },
+    {
+      "courseName": "半導体工学",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "電子制御系分野"
+    },
+    {
+      "courseName": "電子回路論",
+      "credits": 2,
+      "offeringDepartment": "エンジン",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "電子制御系分野"
+    }
+  ]
+}

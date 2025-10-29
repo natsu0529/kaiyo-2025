@@ -1,0 +1,196 @@
+{
+  "courses": [
+    {
+      "courseName": "微分積分Ⅰ",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "H",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "微分積分II",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "H",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "線形代数Ⅰ",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "H",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "線形代数Ⅱ",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "H",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "物理学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "H",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "物理学実験",
+      "credits": 1,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "化学熱力学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "基礎ゼミナール",
+      "credits": 1,
+      "offeringDepartment": "学部共通",
+      "difficulty": "E",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "力学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "H",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "電子機械工学入門",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "情報処理基礎論",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "航海システム概論",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "化学実験",
+      "credits": 1,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "契約法",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "データサイエンス入門A",
+      "credits": 1,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "データサイエンス入門B",
+      "credits": 1,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "数学演習",
+      "credits": 1,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "天文学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "E",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "統計学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "計算機科学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "常微分方程式",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "H",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "電磁気学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "H",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "物質科学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    },
+    {
+      "courseName": "基礎数学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "基礎教育科目",
+      "subCategory": "学部共通科目"
+    }
+  ]
+}
