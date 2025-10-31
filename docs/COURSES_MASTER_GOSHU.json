@@ -7,8 +7,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "共通導入科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "データサイエンス入門A",
@@ -17,8 +16,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "共通導入科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "データサイエンス入門B",
@@ -27,8 +25,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "共通導入科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "日本語表現法",
@@ -37,8 +34,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "共通導入科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "文化人類学",
@@ -47,8 +43,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "文化学系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "水中考古学",
@@ -57,8 +52,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "文化学系科目",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "芸術学",
@@ -67,8 +61,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "文化学系科目",
-      "offeringGrade": 3,
-      "validityYear": "After2021"
+      "offeringGrade": 3
     },
     {
       "courseName": "日本文学",
@@ -77,8 +70,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "文化学系科目",
-      "offeringGrade": 1,
-      "validityYear": "After2021"
+      "offeringGrade": 1
     },
     {
       "courseName": "ヨーロッパ思想",
@@ -87,8 +79,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "文化学系科目",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "哲学",
@@ -97,8 +88,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "哲学・科学論系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "心理学",
@@ -107,8 +97,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "哲学・科学論系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "現代倫理学",
@@ -117,8 +106,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "哲学・科学論系科目",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "生命・環境文化",
@@ -127,8 +115,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "哲学・科学論系科目",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "科学史",
@@ -137,8 +124,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "哲学・科学論系科目",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "経済学",
@@ -147,8 +133,7 @@
       "difficulty": "H",
       "majorCategory": "総合科目",
       "subCategory": "社会科学系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "日本国憲法",
@@ -157,8 +142,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "社会科学系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "社会学",
@@ -167,8 +151,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "社会科学系科目",
-      "offeringGrade": 4,
-      "validityYear": "All"
+      "offeringGrade": 4
     },
     {
       "courseName": "近現代史",
@@ -177,8 +160,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "社会科学系科目",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "政治学",
@@ -187,8 +169,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "社会科学系科目",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "スポーツI",
@@ -197,8 +178,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "健康・スポーツ系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "スポーツII",
@@ -207,8 +187,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "健康・スポーツ系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "健康科学",
@@ -217,8 +196,7 @@
       "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "健康・スポーツ系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "Basic English I",
@@ -227,8 +205,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "外国語系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "Basic English II",
@@ -237,8 +214,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "外国語系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "Practical English I",
@@ -247,8 +223,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "外国語系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "Practical English II",
@@ -257,8 +232,7 @@
       "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "外国語系科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     }
   ]
 }
