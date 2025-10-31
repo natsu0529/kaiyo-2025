@@ -29,8 +29,7 @@
             "微分積分Ⅰ",
             "線形代数Ⅰ",
             "物理学"
-          ],
-          "departmentSpecificMandatory": ["情報処理基礎論"]
+          ]
         },
         "Grade4": {
           "totalRequiredCredits": 104,
