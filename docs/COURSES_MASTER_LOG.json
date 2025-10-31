@@ -1,8 +1,8 @@
 {
   "courses": [
     {
-      "courseName": "ロジスティクス概論",
-      "credits": 2,
+      "courseName": "ロジスティクス概論A",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "E",
       "majorCategory": "専門科目",
@@ -10,8 +10,17 @@
       "offeringGrade": 1
     },
     {
-      "courseName": "物流施設計画学",
-      "credits": 2,
+      "courseName": "ロジスティクス概論B",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "E",
+      "majorCategory": "専門科目",
+      "subCategory": "必修",
+      "offeringGrade": 1
+    },
+    {
+      "courseName": "物流施設計画学A",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -19,8 +28,17 @@
       "offeringGrade": 1
     },
     {
-      "courseName": "コンテナ輸送工学",
-      "credits": 2,
+      "courseName": "物流施設計画学B",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 1
+    },
+    {
+      "courseName": "国際輸送工学A",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -28,13 +46,13 @@
       "offeringGrade": 1
     },
     {
-      "courseName": "物流管理工学",
-      "credits": 2,
+      "courseName": "国際輸送工学B",
+      "credits": 1,
       "offeringDepartment": "流通",
-      "difficulty": "E",
+      "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2
+      "offeringGrade": 1
     },
     {
       "courseName": "物流リスク工学",
@@ -46,8 +64,17 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "流通最適化工学",
-      "credits": 2,
+      "courseName": "流通最適化工学A",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "必修",
+      "offeringGrade": 2
+    },
+    {
+      "courseName": "流通最適化工学B",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -64,8 +91,17 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "港湾環境工学",
-      "credits": 2,
+      "courseName": "港湾環境工学A",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 3
+    },
+    {
+      "courseName": "港湾環境工学B",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "H",
       "majorCategory": "専門科目",
@@ -82,8 +118,17 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "流通オペレーションズ・リサーチ",
-      "credits": 2,
+      "courseName": "流通オペレーションズ・リサーチA",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 3
+    },
+    {
+      "courseName": "流通オペレーションズ・リサーチB",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -100,8 +145,8 @@
       "offeringGrade": 3
     },
     {
-      "courseName": "交通計画学",
-      "credits": 2,
+      "courseName": "交通計画学A",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -109,8 +154,8 @@
       "offeringGrade": 3
     },
     {
-      "courseName": "流通データ分析",
-      "credits": 2,
+      "courseName": "交通計画学B",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -118,8 +163,17 @@
       "offeringGrade": 3
     },
     {
-      "courseName": "通関実務論",
-      "credits": 2,
+      "courseName": "通関実務論A",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 3
+    },
+    {
+      "courseName": "通関実務論B",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -136,6 +190,33 @@
       "offeringGrade": 3
     },
     {
+      "courseName": "ロジスティクス実務論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 3
+    },
+    {
+      "courseName": "情報処理基礎論A",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "必修",
+      "offeringGrade": 1
+    },
+    {
+      "courseName": "情報処理基礎論B",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "必修",
+      "offeringGrade": 1
+    },
+    {
       "courseName": "基礎プログラミング演習",
       "credits": 1,
       "offeringDepartment": "流通",
@@ -145,7 +226,16 @@
       "offeringGrade": 1
     },
     {
-      "courseName": "データサイエンス演習",
+      "courseName": "データサイエンス演習AI実践",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "必修",
+      "offeringGrade": 2
+    },
+    {
+      "courseName": "応用プログラミングA",
       "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
@@ -154,8 +244,8 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "応用プログラミング",
-      "credits": 2,
+      "courseName": "応用プログラミングB",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -163,8 +253,17 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "流通情報システム",
-      "credits": 2,
+      "courseName": "流通情報システムA",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "必修",
+      "offeringGrade": 2
+    },
+    {
+      "courseName": "流通情報システムB",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -215,6 +314,15 @@
       "majorCategory": "専門科目",
       "subCategory": "選択",
       "offeringGrade": 3
+    },
+    {
+      "courseName": "国際経済論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "必修",
+      "offeringGrade": 2
     },
     {
       "courseName": "国際経済論",
