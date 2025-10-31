@@ -7,8 +7,7 @@
       "difficulty": "E",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "物流施設計画学",
@@ -17,8 +16,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "コンテナ輸送工学",
@@ -27,8 +25,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "物流管理工学",
@@ -37,8 +34,7 @@
       "difficulty": "E",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "物流リスク工学",
@@ -47,8 +43,7 @@
       "difficulty": "E",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "流通最適化工学",
@@ -57,8 +52,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "流通基盤計画学",
@@ -67,8 +61,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "港湾環境工学",
@@ -77,8 +70,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "データベース工学",
@@ -87,8 +79,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "流通オペレーションズ・リサーチ",
@@ -97,8 +88,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "作業管理工学",
@@ -107,8 +97,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "交通計画学",
@@ -117,8 +106,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "流通データ分析",
@@ -127,8 +115,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "通関実務論",
@@ -137,8 +124,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "データサイエンス",
@@ -147,8 +133,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "基礎プログラミング演習",
@@ -157,8 +142,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 1,
-      "validityYear": "All"
+      "offeringGrade": 1
     },
     {
       "courseName": "データサイエンス演習",
@@ -167,8 +151,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "応用プログラミング",
@@ -177,8 +160,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "流通情報システム",
@@ -187,8 +169,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "機械学習",
@@ -197,8 +178,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "データ構造とアルゴリズム",
@@ -207,8 +187,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "最適化数学",
@@ -217,8 +196,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "確率論",
@@ -227,8 +205,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "数値解析",
@@ -237,8 +214,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "国際経済論",
@@ -247,8 +223,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "交通経済論",
@@ -257,8 +232,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "国際交通論",
@@ -267,8 +241,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "物流・交通政策の経済分析",
@@ -277,8 +250,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "流通経済論",
@@ -287,8 +259,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "流通チャネル論",
@@ -297,8 +268,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "産業政策論",
@@ -307,8 +277,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "産業経済論",
@@ -317,8 +286,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "保険契約法",
@@ -327,8 +295,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "損害賠償法",
@@ -337,8 +304,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "マーケティング論",
@@ -347,8 +313,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "流通情報工学ゼミナールI",
@@ -357,8 +322,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "流通情報工学ゼミナールII",
@@ -367,8 +331,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "流通情報工学実験",
@@ -377,8 +340,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "流通情報工学演習",
@@ -387,8 +349,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "卒業研究",
@@ -397,8 +358,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "キャリア形成論",
@@ -407,8 +367,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "学外実習",
@@ -417,8 +376,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "短期海外実習I（海外）",
@@ -427,8 +385,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "短期海外実習II（海外）",
@@ -437,8 +394,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "長期海外実習I（海外）",
@@ -447,8 +403,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "長期海外実習II（海外）",
@@ -457,8 +412,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "職業指導（工業）",
@@ -467,8 +421,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 4,
-      "validityYear": "All"
+      "offeringGrade": 4
     },
     {
       "courseName": "工業化指導法I",
@@ -477,8 +430,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "工業化指導法II",
@@ -487,8 +439,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "ラプラス・フーリエ変換",
@@ -497,8 +448,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "複素解析",
@@ -507,8 +457,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "通信ネットワーク",
@@ -517,8 +466,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "衛星即位工学",
@@ -527,8 +475,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "安全工学",
@@ -537,8 +484,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "国際輸送実務論",
@@ -547,8 +493,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "舶用工業実務論",
@@ -557,8 +502,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "海洋開発環境エネルギー概論",
@@ -567,8 +511,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     }
   ]
 }

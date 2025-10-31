@@ -11,7 +11,7 @@
       "validityYear": "All"
     },
     {
-      "courseName": "海洋生命科学概論",
+      "courseName": "データサイエンス入門A",
       "credits": 1,
       "offeringDepartment": "学部共通",
       "difficulty": "E",
@@ -21,30 +21,10 @@
       "validityYear": "All"
     },
     {
-      "courseName": "海洋工学概論",
+      "courseName": "データサイエンス入門B",
       "credits": 1,
       "offeringDepartment": "学部共通",
       "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "共通導入科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "海洋資源環境学概論",
-      "credits": 1,
-      "offeringDepartment": "学部共通",
-      "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "共通導入科目",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "情報リテラシー",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
       "majorCategory": "総合科目",
       "subCategory": "共通導入科目",
       "offeringGrade": 1,
@@ -54,69 +34,19 @@
       "courseName": "日本語表現法",
       "credits": 2,
       "offeringDepartment": "学部共通",
-      "difficulty": "M",
+      "difficulty": "E",
       "majorCategory": "総合科目",
       "subCategory": "共通導入科目",
       "offeringGrade": 1,
       "validityYear": "All"
-    },
-    {
-      "courseName": "GLI演習Ⅰ",
-      "credits": 3,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "共通導入科目",
-      "offeringGrade": 1,
-      "validityYear": "After2021"
-    },
-    {
-      "courseName": "GLI演習Ⅱ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "共通導入科目",
-      "offeringGrade": 2,
-      "validityYear": "After2021"
     },
     {
       "courseName": "文化人類学",
       "credits": 2,
       "offeringDepartment": "学部共通",
-      "difficulty": "E",
+      "difficulty": "M",
       "majorCategory": "総合科目",
-      "subCategory": "文化学系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "民族誌",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "文化学系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "文学",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "文化学系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "歴史学",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "文化学系",
+      "subCategory": "文化学系科目",
       "offeringGrade": 1,
       "validityYear": "All"
     },
@@ -124,9 +54,39 @@
       "courseName": "水中考古学",
       "credits": 2,
       "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "総合科目",
+      "subCategory": "文化学系科目",
+      "offeringGrade": 2,
+      "validityYear": "All"
+    },
+    {
+      "courseName": "芸術学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "総合科目",
+      "subCategory": "文化学系科目",
+      "offeringGrade": 3,
+      "validityYear": "After2021"
+    },
+    {
+      "courseName": "日本文学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "総合科目",
+      "subCategory": "文化学系科目",
+      "offeringGrade": 1,
+      "validityYear": "After2021"
+    },
+    {
+      "courseName": "ヨーロッパ思想",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
       "difficulty": "E",
       "majorCategory": "総合科目",
-      "subCategory": "文化学系",
+      "subCategory": "文化学系科目",
       "offeringGrade": 2,
       "validityYear": "All"
     },
@@ -134,49 +94,49 @@
       "courseName": "哲学",
       "credits": 2,
       "offeringDepartment": "学部共通",
-      "difficulty": "M",
+      "difficulty": "E",
       "majorCategory": "総合科目",
-      "subCategory": "哲学科学論系",
+      "subCategory": "哲学・科学論系科目",
       "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "論理学",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "哲学科学論系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "倫理学",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "哲学科学論系",
-      "offeringGrade": 2,
       "validityYear": "All"
     },
     {
       "courseName": "心理学",
       "credits": 2,
       "offeringDepartment": "学部共通",
-      "difficulty": "M",
+      "difficulty": "E",
       "majorCategory": "総合科目",
-      "subCategory": "哲学科学論系",
+      "subCategory": "哲学・科学論系科目",
+      "offeringGrade": 1,
+      "validityYear": "All"
+    },
+    {
+      "courseName": "現代倫理学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "E",
+      "majorCategory": "総合科目",
+      "subCategory": "哲学・科学論系科目",
       "offeringGrade": 2,
       "validityYear": "All"
     },
     {
-      "courseName": "科学論",
+      "courseName": "生命・環境文化",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "E",
+      "majorCategory": "総合科目",
+      "subCategory": "哲学・科学論系科目",
+      "offeringGrade": 3,
+      "validityYear": "All"
+    },
+    {
+      "courseName": "科学史",
       "credits": 2,
       "offeringDepartment": "学部共通",
       "difficulty": "M",
       "majorCategory": "総合科目",
-      "subCategory": "哲学科学論系",
+      "subCategory": "哲学・科学論系科目",
       "offeringGrade": 2,
       "validityYear": "All"
     },
@@ -184,69 +144,69 @@
       "courseName": "経済学",
       "credits": 2,
       "offeringDepartment": "学部共通",
-      "difficulty": "M",
+      "difficulty": "H",
       "majorCategory": "総合科目",
-      "subCategory": "社会科学系",
+      "subCategory": "社会科学系科目",
       "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "民法",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "社会科学系",
-      "offeringGrade": 2,
       "validityYear": "All"
     },
     {
       "courseName": "日本国憲法",
       "credits": 2,
       "offeringDepartment": "学部共通",
-      "difficulty": "E",
+      "difficulty": "M",
       "majorCategory": "総合科目",
-      "subCategory": "社会科学系",
+      "subCategory": "社会科学系科目",
       "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "国際政治学",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "社会科学系",
-      "offeringGrade": 2,
       "validityYear": "All"
     },
     {
       "courseName": "社会学",
       "credits": 2,
       "offeringDepartment": "学部共通",
-      "difficulty": "E",
+      "difficulty": "M",
       "majorCategory": "総合科目",
-      "subCategory": "社会科学系",
+      "subCategory": "社会科学系科目",
+      "offeringGrade": 4,
+      "validityYear": "All"
+    },
+    {
+      "courseName": "近現代史",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "総合科目",
+      "subCategory": "社会科学系科目",
+      "offeringGrade": 3,
+      "validityYear": "All"
+    },
+    {
+      "courseName": "政治学",
+      "credits": 2,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "総合科目",
+      "subCategory": "社会科学系科目",
+      "offeringGrade": 2,
+      "validityYear": "All"
+    },
+    {
+      "courseName": "スポーツI",
+      "credits": 1,
+      "offeringDepartment": "学部共通",
+      "difficulty": "M",
+      "majorCategory": "総合科目",
+      "subCategory": "健康・スポーツ系科目",
       "offeringGrade": 1,
       "validityYear": "All"
     },
     {
-      "courseName": "スポーツⅠ",
+      "courseName": "スポーツII",
       "credits": 1,
       "offeringDepartment": "学部共通",
       "difficulty": "E",
       "majorCategory": "総合科目",
-      "subCategory": "健康スポーツ系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "スポーツⅡ",
-      "credits": 1,
-      "offeringDepartment": "学部共通",
-      "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "健康スポーツ系",
+      "subCategory": "健康・スポーツ系科目",
       "offeringGrade": 1,
       "validityYear": "All"
     },
@@ -256,49 +216,9 @@
       "offeringDepartment": "学部共通",
       "difficulty": "E",
       "majorCategory": "総合科目",
-      "subCategory": "健康スポーツ系",
+      "subCategory": "健康・スポーツ系科目",
       "offeringGrade": 1,
       "validityYear": "All"
-    },
-    {
-      "courseName": "生涯スポーツⅠ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "健康スポーツ系",
-      "offeringGrade": 1,
-      "validityYear": "Before2023"
-    },
-    {
-      "courseName": "生涯スポーツⅡ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "健康スポーツ系",
-      "offeringGrade": 1,
-      "validityYear": "Before2023"
-    },
-    {
-      "courseName": "マリンスポーツⅠ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "健康スポーツ系",
-      "offeringGrade": 1,
-      "validityYear": "After2023"
-    },
-    {
-      "courseName": "マリンスポーツⅡ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "E",
-      "majorCategory": "総合科目",
-      "subCategory": "健康スポーツ系",
-      "offeringGrade": 1,
-      "validityYear": "After2023"
     },
     {
       "courseName": "Basic English I",
@@ -306,7 +226,7 @@
       "offeringDepartment": "学部共通",
       "difficulty": "M",
       "majorCategory": "総合科目",
-      "subCategory": "外国語系",
+      "subCategory": "外国語系科目",
       "offeringGrade": 1,
       "validityYear": "All"
     },
@@ -316,288 +236,28 @@
       "offeringDepartment": "学部共通",
       "difficulty": "M",
       "majorCategory": "総合科目",
-      "subCategory": "外国語系",
+      "subCategory": "外国語系科目",
       "offeringGrade": 1,
       "validityYear": "All"
     },
     {
       "courseName": "Practical English I",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "学部共通",
       "difficulty": "M",
       "majorCategory": "総合科目",
-      "subCategory": "外国語系",
+      "subCategory": "外国語系科目",
       "offeringGrade": 1,
       "validityYear": "All"
     },
     {
       "courseName": "Practical English II",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "学部共通",
       "difficulty": "M",
       "majorCategory": "総合科目",
-      "subCategory": "外国語系",
+      "subCategory": "外国語系科目",
       "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "Effective English I",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "Effective English II",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "Interactive English I",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "Interactive English II",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "Interactive English III",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 3,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "Interactive English IV",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 3,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "Intensive English I",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 3,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "Intensive English II",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 3,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "総合日本語Ⅰ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "総合日本語Ⅱ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "ドイツ語Ⅰ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "ドイツ語Ⅱ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "ドイツ語Ⅲ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "ドイツ語Ⅳ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "フランス語Ⅰ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "フランス語Ⅱ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "フランス語Ⅲ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "フランス語Ⅳ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "スペイン語Ⅰ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "スペイン語Ⅱ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "スペイン語Ⅲ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "スペイン語Ⅳ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "中国語Ⅰ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "中国語Ⅱ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "M",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 1,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "中国語Ⅲ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
-      "validityYear": "All"
-    },
-    {
-      "courseName": "中国語Ⅳ",
-      "credits": 2,
-      "offeringDepartment": "学部共通",
-      "difficulty": "H",
-      "majorCategory": "総合科目",
-      "subCategory": "外国語系",
-      "offeringGrade": 2,
       "validityYear": "All"
     }
   ]

@@ -7,8 +7,7 @@
       "difficulty": "E",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "材料力学",
@@ -17,8 +16,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "機械力学",
@@ -27,8 +25,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "工業熱力学",
@@ -37,8 +34,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "伝熱工学",
@@ -47,8 +43,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "流体工学",
@@ -57,8 +52,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "制御工学Ⅰ",
@@ -67,8 +61,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "制御工学Ⅱ",
@@ -77,8 +70,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "基礎電子工学",
@@ -87,8 +79,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "船舶工学",
@@ -97,8 +88,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "船舶工学Ⅱ",
@@ -107,8 +97,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "電子機械工学実習",
@@ -117,8 +106,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "実験演習実習",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "電子機械工学実験",
@@ -127,8 +115,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "実験演習実習",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "卒業研究(機)",
@@ -137,8 +124,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 4,
-      "validityYear": "All"
+      "offeringGrade": 4
     },
     {
       "courseName": "卒業研究(制)",
@@ -147,8 +133,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "専門基礎",
-      "offeringGrade": 4,
-      "validityYear": "All"
+      "offeringGrade": 4
     },
     {
       "courseName": "ターボ動力工学Ⅰ",
@@ -157,8 +142,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "機関系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "ターボ動力工学Ⅱ",
@@ -167,8 +151,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "機関系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "ガスタービン工学",
@@ -177,8 +160,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "機関系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "内燃機関工学Ⅰ",
@@ -187,8 +169,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "機関系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "内燃機関工学Ⅱ",
@@ -197,8 +178,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "機関系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "トライボロジー",
@@ -207,8 +187,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "機械系分野",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "金属材料学",
@@ -217,8 +196,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "機械系分野",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "環境材料学",
@@ -227,8 +205,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "機械系分野",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "機械設計製図",
@@ -237,8 +214,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "機械系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "機械加工学",
@@ -247,8 +223,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "機械系分野",
-      "offeringGrade": 2,
-      "validityYear": "All"
+      "offeringGrade": 2
     },
     {
       "courseName": "水中機器学",
@@ -257,8 +232,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "電子制御系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "ソフトウェア工学",
@@ -267,8 +241,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "電子制御系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "応用制御工学",
@@ -277,8 +250,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "電子制御系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "半導体工学",
@@ -287,8 +259,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "電子制御系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     },
     {
       "courseName": "電子回路論",
@@ -297,8 +268,7 @@
       "difficulty": "H",
       "majorCategory": "専門科目",
       "subCategory": "電子制御系分野",
-      "offeringGrade": 3,
-      "validityYear": "All"
+      "offeringGrade": 3
     }
   ]
 }
