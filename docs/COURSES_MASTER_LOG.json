@@ -316,8 +316,8 @@
       "offeringGrade": 3
     },
     {
-      "courseName": "国際経済論",
-      "credits": 2,
+      "courseName": "国際経済論A",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "H",
       "majorCategory": "専門科目",
@@ -325,8 +325,8 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "国際経済論",
-      "credits": 2,
+      "courseName": "国際経済論B",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "H",
       "majorCategory": "専門科目",
@@ -334,8 +334,8 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "交通経済論",
-      "credits": 2,
+      "courseName": "交通経済論A",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "H",
       "majorCategory": "専門科目",
@@ -343,8 +343,17 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "国際交通論",
-      "credits": 2,
+      "courseName": "交通経済論B",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "必修",
+      "offeringGrade": 2
+    },
+    {
+      "courseName": "国際交通論A",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "H",
       "majorCategory": "専門科目",
@@ -352,8 +361,8 @@
       "offeringGrade": 3
     },
     {
-      "courseName": "物流・交通政策の経済分析",
-      "credits": 2,
+      "courseName": "国際交通論B",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "H",
       "majorCategory": "専門科目",
@@ -361,8 +370,26 @@
       "offeringGrade": 3
     },
     {
-      "courseName": "流通経済論",
-      "credits": 2,
+      "courseName": "管理会計A",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 2
+    },
+    {
+      "courseName": "管理会計B",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 2
+    },
+    {
+      "courseName": "流通経済論A",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "H",
       "majorCategory": "専門科目",
@@ -370,7 +397,16 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "流通チャネル論",
+      "courseName": "流通経済論B",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "H",
+      "majorCategory": "専門科目",
+      "subCategory": "必修",
+      "offeringGrade": 2
+    },
+    {
+      "courseName": "ミクロ経済理論",
       "credits": 2,
       "offeringDepartment": "流通",
       "difficulty": "M",
@@ -379,8 +415,8 @@
       "offeringGrade": 3
     },
     {
-      "courseName": "産業政策論",
-      "credits": 2,
+      "courseName": "公共政策とビジネスのための経済理論A",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -388,7 +424,34 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "産業経済論",
+      "courseName": "公共政策とビジネスのための経済理論B",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "必修",
+      "offeringGrade": 2
+    },
+    {
+      "courseName": "マーケットデザイン論A",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 3
+    },
+    {
+      "courseName": "マーケットデザイン論B",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 3
+    },
+    {
+      "courseName": "海法I",
       "credits": 2,
       "offeringDepartment": "流通",
       "difficulty": "M",
@@ -397,16 +460,7 @@
       "offeringGrade": 3
     },
     {
-      "courseName": "保険契約法",
-      "credits": 2,
-      "offeringDepartment": "流通",
-      "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "選択",
-      "offeringGrade": 3
-    },
-    {
-      "courseName": "損害賠償法",
+      "courseName": "保険法",
       "credits": 2,
       "offeringDepartment": "流通",
       "difficulty": "M",
@@ -416,6 +470,15 @@
     },
     {
       "courseName": "マーケティング論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 3
+    },
+    {
+      "courseName": "流通データ分析",
       "credits": 2,
       "offeringDepartment": "流通",
       "difficulty": "M",
@@ -466,7 +529,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "必修",
-      "offeringGrade": 3
+      "offeringGrade": 4
     },
     {
       "courseName": "キャリア形成論",
@@ -476,6 +539,24 @@
       "majorCategory": "専門科目",
       "subCategory": "選択",
       "offeringGrade": 2
+    },
+    {
+      "courseName": "海の企業論I",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 1
+    },
+    {
+      "courseName": "海の企業論II",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 3
     },
     {
       "courseName": "学外実習",
@@ -550,6 +631,33 @@
       "offeringGrade": 3
     },
     {
+      "courseName": "電子機械工学入門",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 1
+    },
+    {
+      "courseName": "航海システム概論",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 1
+    },
+    {
+      "courseName": "契約法",
+      "credits": 2,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 1
+    },
+    {
       "courseName": "ラプラス・フーリエ変換",
       "credits": 2,
       "offeringDepartment": "流通",
@@ -577,8 +685,8 @@
       "offeringGrade": 3
     },
     {
-      "courseName": "衛星即位工学",
-      "credits": 2,
+      "courseName": "衛星即位工学A",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -586,8 +694,26 @@
       "offeringGrade": 3
     },
     {
-      "courseName": "安全工学",
-      "credits": 2,
+      "courseName": "衛星即位工学B",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 3
+    },
+    {
+      "courseName": "安全性と信頼性A",
+      "credits": 1,
+      "offeringDepartment": "流通",
+      "difficulty": "M",
+      "majorCategory": "専門科目",
+      "subCategory": "選択",
+      "offeringGrade": 3
+    },
+    {
+      "courseName": "安全性と信頼性B",
+      "credits": 1,
       "offeringDepartment": "流通",
       "difficulty": "M",
       "majorCategory": "専門科目",
@@ -619,7 +745,7 @@
       "difficulty": "M",
       "majorCategory": "専門科目",
       "subCategory": "選択",
-      "offeringGrade": 3
+      "offeringGrade": 2
     }
   ]
 }
