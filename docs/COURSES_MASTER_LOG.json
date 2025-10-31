@@ -604,33 +604,6 @@
       "offeringGrade": 2
     },
     {
-      "courseName": "職業指導（工業）",
-      "credits": 2,
-      "offeringDepartment": "流通",
-      "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "選択",
-      "offeringGrade": 4
-    },
-    {
-      "courseName": "工業化指導法I",
-      "credits": 2,
-      "offeringDepartment": "流通",
-      "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "選択",
-      "offeringGrade": 3
-    },
-    {
-      "courseName": "工業化指導法II",
-      "credits": 2,
-      "offeringDepartment": "流通",
-      "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "選択",
-      "offeringGrade": 3
-    },
-    {
       "courseName": "電子機械工学入門",
       "credits": 2,
       "offeringDepartment": "流通",
@@ -737,15 +710,6 @@
       "majorCategory": "専門科目",
       "subCategory": "選択",
       "offeringGrade": 3
-    },
-    {
-      "courseName": "海洋開発環境エネルギー概論",
-      "credits": 3,
-      "offeringDepartment": "流通",
-      "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "選択",
-      "offeringGrade": 2
     }
   ]
 }
