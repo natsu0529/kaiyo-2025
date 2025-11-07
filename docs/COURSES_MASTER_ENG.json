@@ -491,7 +491,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 3
     },
@@ -500,7 +500,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 3
     },
@@ -509,7 +509,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 2
     },
@@ -518,7 +518,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 2
     },
@@ -527,7 +527,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 2
     },
@@ -536,7 +536,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 2
     },
@@ -545,7 +545,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 2
     },
@@ -554,7 +554,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 2
     },
@@ -563,7 +563,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 2
     },
@@ -572,7 +572,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 3
     },
@@ -581,7 +581,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 3
     },
@@ -590,7 +590,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目B",
       "subCategory": "選択",
       "offeringGrade": 3
     },
@@ -599,7 +599,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "必修",
       "offeringGrade": 2
     },
@@ -608,7 +608,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "必修",
       "offeringGrade": 3
     },
@@ -617,7 +617,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "制御必修",
       "offeringGrade": 3
     },
@@ -626,7 +626,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "制御必修",
       "offeringGrade": 3
     },
@@ -635,7 +635,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "必修",
       "offeringGrade": 3
     },
@@ -644,7 +644,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "必修",
       "offeringGrade": 3
     },
@@ -653,7 +653,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "機関必修",
       "offeringGrade": 4
     },
@@ -662,7 +662,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "必修",
       "offeringGrade": 1
     },
@@ -671,7 +671,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "必修",
       "offeringGrade": 3
     },
@@ -680,7 +680,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "選択",
       "offeringGrade": 2
     },
@@ -689,8 +689,8 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
-      "subCategory": "電子制御系分野",
+      "majorCategory": "専門科目実験",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -698,7 +698,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "選択",
       "offeringGrade": 2
     },
@@ -707,7 +707,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "選択",
       "offeringGrade": 2
     },
@@ -716,7 +716,7 @@
       "credits": 5,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "必修",
       "offeringGrade": 4
     },
@@ -725,7 +725,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "選択",
       "offeringGrade": 1
     },
@@ -734,7 +734,7 @@
       "credits": 1,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "必修",
       "offeringGrade": 1
     },
@@ -743,7 +743,7 @@
       "credits": 2,
       "offeringDepartment": "エンジン",
       "difficulty": "H",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "必修",
       "offeringGrade": 2
     },
@@ -752,7 +752,7 @@
       "credits": 3,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "機関必修",
       "offeringGrade": 3
     },
@@ -761,7 +761,7 @@
       "credits": 5,
       "offeringDepartment": "エンジン",
       "difficulty": "M",
-      "majorCategory": "専門科目",
+      "majorCategory": "専門科目実験",
       "subCategory": "機関選択",
       "offeringGrade": 4
     }
