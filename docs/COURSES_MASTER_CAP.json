@@ -5,62 +5,62 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "E",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 1
     },
     {
       "courseName": "船舶基礎力学A",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
       "courseName": "船舶基礎力学B",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
       "courseName": "電子通信工学A",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
       "courseName": "電子通信工学B",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
       "courseName": "信号情報処理A",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "H",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
       "courseName": "信号情報処理B",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
@@ -68,8 +68,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
@@ -77,8 +77,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
@@ -86,8 +86,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
@@ -95,8 +95,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
@@ -104,8 +104,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
@@ -113,8 +113,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
@@ -122,35 +122,35 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
       "courseName": "安全性と信頼性A",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
       "courseName": "安全性と信頼性B",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "H",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
       "courseName": "制御工学",
-      "credits": 5,
+      "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "H",
-      "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "majorCategory": "専門科目共通",
+      "subCategory": "選択",
       "offeringGrade": 4
     },
     {
@@ -158,8 +158,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "H",
-      "majorCategory": "専門科目",
-      "subCategory": "基盤数理系",
+      "majorCategory": "専門科目共通",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -167,8 +167,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "H",
-      "majorCategory": "専門科目",
-      "subCategory": "基盤数理系",
+      "majorCategory": "専門科目共通",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -176,8 +176,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "H",
-      "majorCategory": "専門科目",
-      "subCategory": "基盤数理系",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
@@ -185,8 +185,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "基盤数理系",
+      "majorCategory": "専門科目共通",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
@@ -194,8 +194,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "H",
-      "majorCategory": "専門科目",
-      "subCategory": "基盤数理系",
+      "majorCategory": "専門科目共通",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -203,8 +203,8 @@
       "credits": 2,
       "offeringDepartment": "海事",
       "difficulty": "H",
-      "majorCategory": "専門科目",
-      "subCategory": "基盤数理系",
+      "majorCategory": "専門科目共通",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -213,7 +213,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -222,7 +222,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -231,7 +231,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -240,7 +240,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -249,7 +249,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -258,25 +258,24 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
       "courseName": "海運経営論A",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
       "courseName": "海運経営論B",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
-      "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -285,7 +284,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -294,25 +293,25 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
       "courseName": "海上危機管理論A",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "船舶管理系",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
       "courseName": "海上危機管理論B",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -321,7 +320,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -330,7 +329,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -339,7 +338,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -348,7 +347,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -357,7 +356,7 @@
       "offeringDepartment": "海事",
       "difficulty": "H",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -366,7 +365,7 @@
       "offeringDepartment": "海事",
       "difficulty": "H",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -375,7 +374,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "選択",
       "offeringGrade": 4
     },
     {
@@ -384,7 +383,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "選択",
       "offeringGrade": 4
     },
     {
@@ -393,7 +392,7 @@
       "offeringDepartment": "海事",
       "difficulty": "E",
       "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -402,25 +401,25 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
       "courseName": "船体構造論A",
-      "credits": 3,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "E",
       "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
       "courseName": "船体構造論B",
-      "credits": 3,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "E",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -429,7 +428,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -438,7 +437,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -447,7 +446,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
@@ -456,25 +455,25 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
       "courseName": "マリナーズファクタと安全運航A",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "選択",
       "offeringGrade": 3
     },
     {
       "courseName": "マリナーズファクタと安全運航B",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "選択",
       "offeringGrade": 2
     },
     {
@@ -483,7 +482,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
@@ -492,7 +491,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
@@ -501,7 +500,7 @@
       "offeringDepartment": "海事",
       "difficulty": "H",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
@@ -510,88 +509,88 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "必修",
       "offeringGrade": 4
     },
     {
       "courseName": "海事システム工学ゼミナールI",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "海事工学系",
+      "subCategory": "必修",
       "offeringGrade": 4
     },
     {
       "courseName": "海事システム工学ゼミナールII",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "E",
       "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "subCategory": "必修",
       "offeringGrade": 2
     },
     {
       "courseName": "海事システム工学ゼミナールIII",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
       "courseName": "船舶実験I（汐路丸）",
-      "credits": 3,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "E",
       "majorCategory": "専門科目",
-      "subCategory": "専門基礎",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
       "courseName": "船舶実験II（汐路丸）",
-      "credits": 3,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "E",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
       "courseName": "船舶実験III（汐路丸）",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
       "courseName": "卒業研究",
-      "credits": 2,
+      "credits": 5,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
       "courseName": "水泳実習",
-      "credits": 2,
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
-      "courseName": "探偵実習",
-      "credits": 2,
+      "courseName": "短艇実習",
+      "credits": 1,
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "必修",
       "offeringGrade": 3
     },
     {
@@ -600,7 +599,7 @@
       "offeringDepartment": "海事",
       "difficulty": "M",
       "majorCategory": "専門科目",
-      "subCategory": "実験演習実習",
+      "subCategory": "必修",
       "offeringGrade": 3
     }
   ]
