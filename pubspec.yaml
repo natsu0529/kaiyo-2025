@@ -1,0 +1,32 @@
+name: kaiyo_2025
+description: tumsat履修補助2025
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - docs/CURRICULUM_CAP_RULES.json
+    - docs/CURRICULUM_ENG_RULES.json
+    - docs/CURRICULUM_LOG_RULES.json
+    - docs/COURSES_MASTER_LOG.json
+    - docs/COURSES_MASTER_KISO.json
+    - docs/COURSES_MASTER_ENG.json
+    - docs/COURSES_MASTER_GOSHU.json
+    - docs/COURSES_MASTER_CAP.json
