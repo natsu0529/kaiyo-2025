@@ -1,4 +1,4 @@
-name: tumsat履修補助2025
+name: kaiyo_2025
 description: TUMSAT履修管理・進級判定アプリケーション
 publish_to: "none"
 version: 1.0.0+1
@@ -9,20 +9,29 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
-  provider: ^6.1.1
-  shared_preferences: ^2.2.2
-  json_annotation: ^4.8.1
-  path_provider: ^2.1.1
+  cupertino_icons: ^1.0.8
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
-  build_runner: ^2.4.7
-  json_serializable: ^6.7.1
+  flutter_launcher_icons: ^0.13.1
 
 flutter:
   uses-material-design: true
   assets:
     - docs/
+    - assets/icon.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/icon.png
+  web:
+    generate: true
+    image_path: assets/icon.png
+  macos:
+    generate: true
+    image_path: assets/icon.png
