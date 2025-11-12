@@ -30,12 +30,17 @@ class CurriculumRulesRepository {
       Department.CAP => 'docs/CURRICULUM_CAP_RULES.json',
     };
     final raw = await rootBundle.loadString(path);
-    final data = json.decode(raw) as Map<String, dynamic>;
-    final list = (data['curriculumRules'] ?? data['CurriculumRules']) as List<dynamic>;
-    final selected = (list.isNotEmpty ? list.first : <String, dynamic>{}) as Map<String, dynamic>;
-    final rawLimits = (selected['requiredLimits'] ?? selected['RequiredLimits']) as Map<String, dynamic>;
+    final data = json.decode(raw);
+    final map = data is Map<String, dynamic> ? data : <String, dynamic>{};
+    final rulesArrDyn = map['curriculumRules'] ?? map['CurriculumRules'];
+    final rulesArr = rulesArrDyn is List ? rulesArrDyn : const [];
+    final selDyn = rulesArr.isNotEmpty ? rulesArr.first : const {};
+    final selected = selDyn is Map<String, dynamic> ? selDyn : <String, dynamic>{};
+    final rawLimitsDyn = selected['requiredLimits'] ?? selected['RequiredLimits'] ?? const {};
+    final rawLimits = rawLimitsDyn is Map<String, dynamic> ? rawLimitsDyn : <String, dynamic>{};
     final limits = rawLimits.map((k, v) => MapEntry(k.toString(), (v as num).toInt()));
-    final rawProg = (selected['progressionRules'] ?? selected['ProgressionRules']) as Map<String, dynamic>;
+    final rawProgDyn = selected['progressionRules'] ?? selected['ProgressionRules'] ?? const {};
+    final rawProg = rawProgDyn is Map<String, dynamic> ? rawProgDyn : <String, dynamic>{};
     final prog = rawProg.map((k, v) {
       final key = k.toString().toLowerCase();
       final m = v as Map<String, dynamic>;
