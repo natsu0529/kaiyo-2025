@@ -141,16 +141,63 @@ class _DashboardPageState extends State<DashboardPage> with SingleTickerProvider
 
   Future<void> _addCourse() async {
     if (_profile == null) return;
-    final items = await _masterRepo.loadByDepartment(_profile!.department);
-    if (!mounted) return;
-    final selected = await showModalBottomSheet<CourseMasterItem>(
+    final mode = await showModalBottomSheet<String>(
       context: context,
       builder: (context) {
-        return _CoursePicker(items: items);
+        return SafeArea(
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              ListTile(
+                leading: const Icon(Icons.list),
+                title: const Text('マスタから選択'),
+                onTap: () => Navigator.pop(context, 'master'),
+              ),
+              ListTile(
+                leading: const Icon(Icons.edit),
+                title: const Text('手入力で追加'),
+                onTap: () => Navigator.pop(context, 'manual'),
+              ),
+            ],
+          ),
+        );
       },
     );
-    if (selected == null) return;
-    final diff = await showDialog<Difficulty>(
+    if (mode == 'master') {
+      final items = await _masterRepo.loadByDepartment(_profile!.department);
+      if (!mounted) return;
+      final selected = await showModalBottomSheet<CourseMasterItem>(
+        context: context,
+        builder: (context) {
+          return _CoursePicker(items: items);
+        },
+      );
+      if (selected == null) return;
+      final diff = await _pickDifficulty();
+      if (diff == null) return;
+      final tc = TakenCourse(
+        courseName: selected.courseName,
+        credits: selected.credits,
+        difficulty: diff,
+        majorCategory: selected.majorCategory,
+        subCategory: selected.subCategory,
+      );
+      final box = await Hive.openBox('appBox');
+      _courses.add(tc);
+      await box.put('takenCourses', _courses);
+      if (mounted) setState(() {});
+    } else if (mode == 'manual') {
+      final tc = await _manualEntry();
+      if (tc == null) return;
+      final box = await Hive.openBox('appBox');
+      _courses.add(tc);
+      await box.put('takenCourses', _courses);
+      if (mounted) setState(() {});
+    }
+  }
+
+  Future<Difficulty?> _pickDifficulty() async {
+    return showDialog<Difficulty>(
       context: context,
       builder: (context) {
         return AlertDialog(
@@ -167,18 +214,68 @@ class _DashboardPageState extends State<DashboardPage> with SingleTickerProvider
         );
       },
     );
-    if (diff == null) return;
-    final tc = TakenCourse(
-      courseName: selected.courseName,
-      credits: selected.credits,
-      difficulty: diff,
-      majorCategory: selected.majorCategory,
-      subCategory: selected.subCategory,
+  }
+
+  Future<TakenCourse?> _manualEntry() async {
+    final nameCtrl = TextEditingController();
+    final credCtrl = TextEditingController();
+    final majorCtrl = TextEditingController();
+    final subCtrl = TextEditingController();
+    Difficulty? diff;
+    final res = await showModalBottomSheet<TakenCourse>(
+      context: context,
+      isScrollControlled: true,
+      builder: (context) {
+        return StatefulBuilder(
+          builder: (context, setStateModal) {
+            return Padding(
+              padding: EdgeInsets.only(bottom: MediaQuery.of(context).viewInsets.bottom),
+              child: SafeArea(
+                child: Padding(
+                  padding: const EdgeInsets.all(16),
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      TextField(decoration: const InputDecoration(labelText: '科目名'), controller: nameCtrl),
+                      TextField(decoration: const InputDecoration(labelText: '単位数'), controller: credCtrl, keyboardType: TextInputType.number),
+                      DropdownButtonFormField<Difficulty>(
+                        initialValue: diff,
+                        items: Difficulty.values.map((d) => DropdownMenuItem(value: d, child: Text(d.name))).toList(),
+                        onChanged: (d) => setStateModal(() => diff = d),
+                        decoration: const InputDecoration(labelText: '難易度'),
+                      ),
+                      TextField(decoration: const InputDecoration(labelText: '大分類'), controller: majorCtrl),
+                      TextField(decoration: const InputDecoration(labelText: '小分類'), controller: subCtrl),
+                      const SizedBox(height: 16),
+                      ElevatedButton(
+                        onPressed: () {
+                          final n = nameCtrl.text.trim();
+                          final cr = int.tryParse(credCtrl.text.trim()) ?? 0;
+                          if (n.isEmpty || diff == null || cr <= 0) {
+                            Navigator.pop(context);
+                            return;
+                          }
+                          final tc = TakenCourse(
+                            courseName: n,
+                            credits: cr,
+                            difficulty: diff!,
+                            majorCategory: majorCtrl.text.trim(),
+                            subCategory: subCtrl.text.trim(),
+                          );
+                          Navigator.pop(context, tc);
+                        },
+                        child: const Text('追加'),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            );
+          },
+        );
+      },
     );
-    final box = await Hive.openBox('appBox');
-    _courses.add(tc);
-    await box.put('takenCourses', _courses);
-    if (mounted) setState(() {});
+    return res;
   }
 }
 
